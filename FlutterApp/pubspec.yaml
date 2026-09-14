@@ -1,0 +1,19 @@
+name: flutter_app
+description: Aplicativo educativo de exemplo para a disciplina Desenvolvimento Mobile I — UESB 2026.2
+publish_to: "none"
+version: 0.0.1
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
