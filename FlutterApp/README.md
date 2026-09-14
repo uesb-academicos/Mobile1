@@ -19,7 +19,7 @@ O arquivo do roteiro descreve a configuração do ambiente e a publicação da b
 
 - .devcontainer/devcontainer.json: imagem Flutter e extensões Dart/Flutter.
 - .vscode/launch.json: execução Flutter Web na porta 8080.
-- lib/main.dart: aplicativo introdutório e contador.
+- lib/main.dart: página responsiva com apresentação, recursos e linha do tempo.
 - test/widget_test.dart: teste do contador.
 - web/: suporte web gerado pelo Flutter.
 - docs/historico/README-original.md: README anterior preservado.
