@@ -1,0 +1,1 @@
+# FirebaseConfiguração preparada para uso futuro. Chaves reais não devem ser salvas neste repositório público.Use variáveis de ambiente ou arquivos locais ignorados pelo Git.
